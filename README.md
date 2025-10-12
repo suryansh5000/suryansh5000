@@ -23,8 +23,8 @@ I'm passionate about turning data into actionable insights. I enjoy exploring da
 ---
 
 ### 📫 **Contact Me**
-- 📧 **Email:** [](mailto:suryanshsingh1712@gmail.com)
-- 💼 **LinkedIn:** [](https://www.linkedin.com/in/suryansh-singh-2562bb270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📧 **Email:** suryanshsingh1712@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/suryansh-singh--/
   
 
 ---

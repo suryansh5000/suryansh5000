@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Suryansh Singh
 
-<!--
-**suryansh5000/suryansh5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Data Analyst | SQL | Python | Excel | Power BI**
 
-Here are some ideas to get you started:
+I'm passionate about turning data into actionable insights. I enjoy exploring data, visualizing trends, and building analytical solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 **Skills**
+- **Languages & Tools:** Python | SQL | Excel | Power BI
+- **Data Analysis:** Data Cleaning, Visualization, EDA, Reporting
+- **Databases:** MySQL, PostgreSQL
+- **Other Tools:** Git, GitHub, VS Code
+
+---
+
+### 📊 **Projects**
+| Project Name | Description | Tools |
+|---------------|--------------|--------|
+| [SQL Project](https://github.com/Suryansh5000/sql-project) | SQL queries and analysis on sample datasets | SQL |
+| [Student Score Analysis](https://github.com/Suryansh5000/studentscoreanalysis) | Analyzed student performance using Python and Power BI | Python, Power BI |
+
+---
+
+### 📫 **Contact Me**
+- 📧 **Email:** [](mailto:suryanshsingh1712@gmail.com)
+- 💼 **LinkedIn:** [](https://www.linkedin.com/in/suryansh-singh-2562bb270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+  
+
+---
+
+### ⚡ **Fun Fact**
+> “Data tells stories — I love being the storyteller!”

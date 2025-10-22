@@ -17,8 +17,9 @@ I’m curious about data and love figuring out what it can tell us. I enjoy spot
 ### 📊 **Projects**
 | Project Name | Description | Tools |
 |---------------|--------------|--------|
-| [SQL Project](https://github.com/Suryansh5000/sql-project) | SQL queries and analysis on sample datasets | SQL |
-| [Student Score Analysis](https://github.com/Suryansh5000/studentscoreanalysis) | Analyzed student performance using Python and Power BI | Python, Power BI |
+| End-To-End Project for Data analytics in Banking Domain | ([https://github.com/Suryansh5000/](https://github.com/suryansh5000/End-to-End-Banking-analysis-Project)) | SQL, MySQL Workbench, Google Collab, Python, Command line, DBC
+| Online Book Store Analysis | ([https://github.com/Suryansh5000/sql-project](https://github.com/suryansh5000/onlineBookStore)) | SQL, My SQL Server
+| Student Score Analysis | ([https://github.com/Suryansh5000/studentscoreanalysis](https://github.com/suryansh5000/studentScoreAnalysis)) | Python, Python libraries(Pandas, NumPy, Seaborne, Matplotlib), Jupyter Notebook
 
 ---
 

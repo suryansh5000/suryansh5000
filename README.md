@@ -2,7 +2,7 @@
 
 💻 **Aspiring Data Analyst | SQL | Python | Excel | Power BI**
 
-I'm passionate about turning data into actionable insights. I enjoy exploring data, visualizing trends, and building analytical solutions that solve real-world problems.
+I’m curious about data and love figuring out what it can tell us. I enjoy spotting trends, creating visuals, and turning findings into practical solutions.
 
 ---
 
